@@ -40,11 +40,8 @@ Contact: Find my contact information.
 📞 Contact
 Feel free to reach out to me via:
 
-LinkedIn: Yash's LinkedIn Profile
-
 Email: yashmishra5150@gmail.com
 
-Phone: +919152979117
 
 📄 License
 This project is open source and available under the MIT License.
