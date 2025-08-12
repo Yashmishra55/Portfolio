@@ -26,22 +26,6 @@ Custom CSS: Minimal custom styles for specific effects like outlined text and an
 
 Inter Font: A modern, highly readable typeface.
 
-🛠️ Setup and Installation
-To get a local copy up and running, follow these simple steps:
-
-Clone the repository:
-
-git clone https://github.com/YourGitHubUsername/your-repo-name.git
-
-(Replace YourGitHubUsername/your-repo-name with your actual GitHub repository details)
-
-Navigate to the project directory:
-
-cd your-repo-name
-
-Open index.html:
-Simply open the index.html file in your preferred web browser. Since it uses CDN for Tailwind CSS, no additional build steps are required.
-
 📖 Usage
 Navigate through the portfolio using the top header links:
 
